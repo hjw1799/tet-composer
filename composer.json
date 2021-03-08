@@ -9,7 +9,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4"
+    },
     "autoload": {
         "psr-4": {
             "Hjw\\" : "src"
