@@ -7,7 +7,8 @@ namespace Hjw;
 class Test
 {
     public function test(){
-        echo 'zzqsb666';
-        
+        for ($i = 0; $i < 100 ; $i = $i +1){
+            echo 'zzqsb666';
+        }
     }
 }
